@@ -52,6 +52,7 @@ ul.ticks{
 	left: 50%;
 	bottom: 50%;
 	transform-origin: center bottom;
+	border-radius: 50% 50% 20% 20%;
 }
 
 .hands  .hour{
