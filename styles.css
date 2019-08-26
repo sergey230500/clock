@@ -80,14 +80,16 @@ ul.ticks{
 	left: 50%;
 	bottom: 50%;
 	width:2em;
-	height:180px;
+	height:175px;
 	margin-left:-1em;
 	transform-origin: center bottom;
 	color: #0c0;
-	font-family: Georgia;
+	font-family: cursive;
 	font-size: 50px;
 	font-weight:bold;
 	text-align:center;
+	line-height: 1;
+	
 }
 
 .display span{
